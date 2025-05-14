@@ -4,7 +4,7 @@ A personal profile website designed to highlight skills, projects, and contact i
 
 ## 🌐 Live Site
 
-*If hosted, provide the URL here.*
+https://moriiar.github.io/profilewebsite/
 
 ## 🗂️ Project Structure
 
